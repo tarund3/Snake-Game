@@ -14,3 +14,7 @@ This is a simple 2D Snake Game built using HTML5, CSS, and JavaScript. The game 
 - **HTML5 Canvas**: Used to render the game graphics.
 - **CSS**: Basic styling for the game layout.
 - **JavaScript**: Handles game logic such as movement, collision detection, score tracking, and rendering.
+
+
+https://github.com/user-attachments/assets/6544ad8f-4d52-4de9-8e3a-38eb6dcee0eb
+
